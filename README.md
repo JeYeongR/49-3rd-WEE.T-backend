@@ -1,3 +1,6 @@
+## 👨‍💻 WEE.T
+고객 맞춤형 PT & 식단 구성을 제공하는 웹 서비스
+
 ## :hammer: 기술 스택
 - Nods.js
 - JavaScript
